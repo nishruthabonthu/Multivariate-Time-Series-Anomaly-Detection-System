@@ -1,0 +1,9 @@
+# Core dependencies for Flask interface
+Flask==2.3.3
+pandas
+numpy
+
+# Optional (for enhanced detection methods)
+adtk
+pyod
+scikit-learn
